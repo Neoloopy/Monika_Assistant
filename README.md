@@ -11,3 +11,4 @@ Future add ons:
   - facial recognition
   - speech recognition
   - (special feature) study mode
+  - coming soon 🌰
