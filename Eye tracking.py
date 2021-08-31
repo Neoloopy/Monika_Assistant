@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 import dlib
 
+#haha spaghetti code go brrrrrrr
 cap = cv2.VideoCapture(0)
 
 detector = dlib.get_frontal_face_detector()
